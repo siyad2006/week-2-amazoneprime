@@ -1,0 +1,171 @@
+.pic{
+    height: auto;
+    max-width: 100%;
+   
+}
+
+.pic-head{
+    color: white;
+    position: absolute;
+    top: 80px;
+    margin-left: 30px;
+}
+.pic-para{
+    color: white;
+    position: absolute;
+    top: 130px;
+    margin-left: 30px;
+
+}
+@media (max-width: 414px) {
+    .pic-head{
+        display: block;
+        top: 197px;
+        color:white;
+        margin-left: 35px;
+    }
+    .pic-para{
+        margin-left: 35px;
+        top: 250px;
+    }
+    .pic-h{
+        height: 370px;
+
+    }
+    .btn-c{
+      margin-top: 515px;
+    }
+    .but-2{
+        margin-left: -240px;
+    }
+    .text-2{
+       margin-bottom: 465px;
+       margin-left: 30px;
+
+
+      
+       
+    }
+    .b{
+        height: 440px;
+    }
+   
+}
+@media (max-width: 1024px){
+
+}
+.btn-c{
+    position: relative;
+    top: -400px;
+    margin-left:40px;
+
+}
+.b{
+    background-color: black;
+    height: 570px;
+}
+.b1{
+    background-color: black;
+}
+.head-2{
+    margin-bottom: 50px;
+    color: white;
+}
+.movie-1{
+    position: absolute;
+    color: white;
+   top: 710px;
+   margin-left: 30px;
+}
+.text-2{
+    color: white;
+    position: absolute;
+    top:650px ;
+    justify-content: center;
+}
+.v{
+   z-index: -1;
+ 
+   
+}
+.para2{
+    position: absolute;
+    top: 730px;
+    color: white;
+    margin-left: 30px;
+}
+.but-2{
+    position: absolute;
+    top: 760px;
+    margin-left: -1111px;
+}
+
+.dv{
+    float: left;
+
+}
+.dv-2{
+    float: right;
+}
+.image{
+    height: 107px;
+    width: 128px;
+    margin: 5px;
+}
+.image:hover{
+    transform: scale(1.05);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.724);
+}
+
+
+
+
+
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0; /* Adjust padding as needed */
+  }
+  
+  /* Center the logo within the footer */
+  .footer-logo {
+    display: inline-block;
+  }
+  
+  .footer-logo img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  /* Responsive adjustments */
+  @media (max-width: 768px) {
+    /* Example: Stack the logo vertically on smaller screens */
+    .footer-logo {
+      display: block;
+      margin: 0 auto; /* Center align on smaller screens */
+      text-align: center;
+    }
+  }
+
+
+  @media (max-width: 414px) {
+    .image {
+        margin: 5px; /* Adjust margin for smaller screens */
+    }
+}
+
+
+.cs{
+    
+    position: relative;
+    top: -17px;
+}
+.cs2{
+    position: relative;
+    top: -42px;
+
+}
+
+
